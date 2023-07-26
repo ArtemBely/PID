@@ -1,0 +1,24 @@
+.disclaimer_footer {
+  top: 370px !important;
+}
+.security_footer {
+  top: 410px !important;
+}
+.use_footer {
+  top: 400px !important;
+}
+.privacy_footer {
+  top: 340px !important;
+}
+.conditions_footer {
+  top: 410px !important;
+}
+.brochure_footer {
+  top: 390px !important;
+}
+@media (min-width: 320px) and (max-width: 576px) {
+  .wrap_site_privacy {
+    height: 15395px;
+    overflow: hidden;
+  }
+}
